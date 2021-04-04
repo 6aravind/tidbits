@@ -2,6 +2,10 @@
 
 Collection of short but interesting code snippets.
 
+# Installation
+
+`conda env create --file env_tidbits.yaml`
+
 
 # Topics
 
