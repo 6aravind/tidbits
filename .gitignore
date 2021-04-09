@@ -1,3 +1,4 @@
 
 .DS_Store
 base/.ipynb_checkpoints/*
+*.swp
