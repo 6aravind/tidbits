@@ -20,3 +20,13 @@ Collection of short but interesting code snippets.
   </ul>
 </details>
 
+
+<details open> 
+  <summary> 
+    Jupyter Notebook
+  </summary>
+  <ul>
+     <li><a href="notebook/Digit%20Emoji%20Predictor_Build%20UI%20for%20Deep%20Learning%20model%20in%20Jupyter%20Notebook.ipynb" target="_blank">Digit Emoji Predictor: Build UI for Deep Learning model in Jupyter Notebook</a></li> 
+  </ul>
+</details>
+
