@@ -23,6 +23,15 @@ conda activate tidbits
   </ul>
 </details>
 
+<details open> 
+  <summary> 
+    Computer Vision
+  </summary>
+  <ul>
+     <li><a href="cv/Stamp%20detection%20using%20computer%20vision%20and%20python.ipynb" target="_blank">Stamp Detection using Computer Vision and Python</a></li> 
+  </ul>
+</details>
+
 
 <details open> 
   <summary> 
