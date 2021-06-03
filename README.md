@@ -32,6 +32,14 @@ conda activate tidbits
   </ul>
 </details>
 
+<details open> 
+  <summary> 
+    Pytorch
+  </summary>
+  <ul>
+     <li><a href="pytorch/Visualize%20image%20data%20pipeline.ipynb" target="_blank">Do You Visualize DataLoaders for Deep Neural Networks?</a></li> 
+  </ul>
+</details>
 
 <details open> 
   <summary> 
@@ -50,4 +58,3 @@ conda activate tidbits
      <li><a href="github/Automate%20Gist%20Creation%20From%20Markdown%20File%20Using%20Python.ipynb" target="_blank">Automate Gist Creation From Markdown File Using Python</a></li> 
   </ul>
 </details>
-
