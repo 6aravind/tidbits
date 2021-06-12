@@ -46,7 +46,9 @@ conda activate tidbits
     Jupyter Notebook
   </summary>
   <ul>
-     <li><a href="notebook/Digit%20Emoji%20Predictor_Build%20UI%20for%20Deep%20Learning%20model%20in%20Jupyter%20Notebook.ipynb" target="_blank">Digit Emoji Predictor: Build UI for Deep Learning model in Jupyter Notebook</a></li> 
+     <li><a href="notebook/Digit%20Emoji%20Predictor_Build%20UI%20for%20Deep%20Learning%20model%20in%20Jupyter%20Notebook.ipynb" target="_blank">Digit Emoji Predictor: Build UI for Deep Learning model in Jupyter Notebook</a></li>
+    <li><a href="notebook/7%20Advanced%20Markdown%20Tips.md" target="_blank">7 Advanced Markdown Tips!</a></li>
+    
   </ul>
 </details>
 
