@@ -38,7 +38,7 @@ conda activate tidbits
     Visualization
   </summary>
   <ul>
-     <li><a href="visualize/Inspect%20Image%20Dataset.ipynb" target="_blank">Inspect Image Dataset</a></li> 
+     <li><a href="visualize/Inspect%20Image%20Dataset.ipynb" target="_blank">How to Pick the Optimal Image Size for Training Convolution Neural Network?</a></li> 
   </ul>
 </details>
 
