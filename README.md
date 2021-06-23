@@ -20,6 +20,7 @@ conda activate tidbits
      <li><a href="base/Use%20case%20for%20Python%20Tuple.ipynb" target="_blank">Use case for Python Tuple </a></li> 
      <li><a href="base/Write%20better%20python%20functions%20using%20type%20dispatch.ipynb" target="_blank">Write better python functions using type dispatch</a></li>
      <li><a href="base/Do%20You%20Really%20Understand%20Try%20%26%20Finally%20in%20Python%3F.ipynb" target="_blank">Do You Really Understand Try & Finally in Python?</a></li>
+    <li><a href="base/Validate%20Python%20Function%20User%20Inputs.ipynb" target="_blank">Validate Python Function User Inputs</a></li> 
   </ul>
 </details>
 
@@ -31,6 +32,16 @@ conda activate tidbits
      <li><a href="cv/Stamp%20detection%20using%20computer%20vision%20and%20python.ipynb" target="_blank">Stamp Detection using Computer Vision and Python</a></li> 
   </ul>
 </details>
+
+<details open> 
+  <summary> 
+    Visualization
+  </summary>
+  <ul>
+     <li><a href="visualize/Inspect%20Image%20Dataset.ipynb" target="_blank">Inspect Image Dataset</a></li> 
+  </ul>
+</details>
+
 
 <details open> 
   <summary> 
